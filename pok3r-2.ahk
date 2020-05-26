@@ -5,6 +5,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 SetCapsLockState AlwaysOff
 
+#CapsLock::CapsLock
+
 `::Esc
 Esc::`
 \::Backspace
