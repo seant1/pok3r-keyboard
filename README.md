@@ -1,6 +1,9 @@
 # pok3r-keyboard
 AutoHotkey script for POK3R-inspired keyboard layout. Aim to minimise hand movement off home row (e.g. pressing arrow keys) with minimal learning curve.
 
+## Usage
+Run 🏃‍♂️ `pok3r-2.exe`
+
 ## Hotkeys
 `;` and `CapsLock` are used as a modifier keys - they do nothing on their own.
 
