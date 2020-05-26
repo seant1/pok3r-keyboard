@@ -1,12 +1,13 @@
 # pok3r-keyboard
-AutoHotkey script for POK3R-inspired keyboard layout. Aim to minimise movement of hands off home row (e.g. reaching for arrow keys) without minimal learning curve.
+AutoHotkey script for POK3R-inspired keyboard layout. Aim to minimise hand movement off home row (e.g. pressing arrow keys) with minimal learning curve.
 
 ## Hotkeys
-Note: `;` and `CapsLock` are used as a modifier keys and do nothing on their own.
+`;` and `CapsLock` are used as a modifier keys - they do nothing on their own.
 
-Use `CapsLock + ;` to actually type `;` (works in combination with other modifier keys e.g. `CapsLock + Shift + ;` for `:`).
+To type `;` press `CapsLock + ;`. This works in combination with other modifier keys e.g. `CapsLock + Shift + ;` for `:`.
 
-Use `WinKey + CapsLock` to toggle `CapsLock`.
+To toggle `CapsLock` use `WinKey + CapsLock`.
+
 Hotkey|Function
 ---|---
 ; + j | Left
@@ -26,6 +27,7 @@ CapsLock + o | Media_Next _(in review)_
 CapsLock + p | Media_Stop _(in review)_
 CapsLock + j | Ctrl + Alt + Shift + F6 (arbitrary shortcut mapped to global VLC hotkey for 'Very short backwards jump') _(in review)_
 CapsLock + l | Ctrl + Alt + Shift + F7 (arbitrary shortcut mapped to global VLC hotkey for 'Very short forward jump') _(in review)_
+
 
 ## Key Remappings
 Key|Remapped to
