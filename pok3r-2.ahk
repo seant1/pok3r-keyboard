@@ -10,9 +10,9 @@ SetCapsLockState AlwaysOff
 `::Esc
 Esc::`
 \::Backspace
-Backspace::\
+Backspace::Delete
 
-CapsLock & \::Delete
+CapsLock & \::\
 
 `; & ~Ctrl up::Send, {Ctrl Up}  ; without, ctrl unpresses held down ';'
 `; & ~CapsLock up::Send, {CapsLock Up}
