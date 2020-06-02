@@ -39,6 +39,8 @@ CapsLock & l::Send {Ctrl down}{Alt down}{Shift down}{F7}{Ctrl up}{Alt up}{Shift 
 CapsLock & h::Media_Prev
 CapsLock & o::Media_Next
 CapsLock & p::Media_Stop
+CapsLock & u::Send {Ctrl down}{Alt down}{Shift down}{F4}{Ctrl up}{Alt up}{Shift up}
+CapsLock & n::Send {Ctrl down}{Alt down}{Shift down}{F5}{Ctrl up}{Alt up}{Shift up}
 
 ; CapsLock & a::Left
 
