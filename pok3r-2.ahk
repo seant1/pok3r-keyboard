@@ -59,3 +59,6 @@ Send, {End}
 Sleep, 2
 Send, {Enter}
 return
+
++WheelDown::WheelRight
++WheelUp::WheelLeft
