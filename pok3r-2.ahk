@@ -15,6 +15,7 @@ Backspace::Delete
 CapsLock & \::\
 
 `; & ~Ctrl up::Send, {Ctrl Up}  ; without, ctrl unpresses held down ';'
+~Ctrl & `;::Send, {Ctrl}  ; to disable ctrl + ';' shortcut in google docs
 `; & ~CapsLock up::Send, {CapsLock Up}
 
 `; & j::Left
