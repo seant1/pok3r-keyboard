@@ -74,9 +74,9 @@ $F2::Run, "..\hotkey-shortcuts\2.lnk"
 $F3::Run, "..\hotkey-shortcuts\3.lnk"
 $F4::Run, "..\hotkey-shortcuts\4.lnk"
 $F5::Run, "..\hotkey-shortcuts\5.lnk"
-$F6::Media_Prev
-$F7::Media_Play_Pause
-$F8::Media_Next
+$F6::Run, "..\hotkey-shortcuts\6.lnk"
+$F7::Run, "..\hotkey-shortcuts\7.lnk"
+$F8::Run, "..\hotkey-shortcuts\8.lnk"
 $F9::Volume_Mute
 $F10::Volume_Down
 $F11::Volume_Up
