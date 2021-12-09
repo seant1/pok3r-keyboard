@@ -43,14 +43,6 @@ CapsLock & p::Media_Stop
 CapsLock & u::Send {Ctrl down}{Alt down}{Shift down}{F4}{Ctrl up}{Alt up}{Shift up}
 CapsLock & n::Send {Ctrl down}{Alt down}{Shift down}{F5}{Ctrl up}{Alt up}{Shift up}
 
-; CapsLock & a::Left
-
-; CapsLock & s::Down
-
-; CapsLock & w::Up
-
-; CapsLock & d::Right
-
 CapsLock & `;::;
 
 Ctrl & q::Send !{F4}
@@ -63,3 +55,16 @@ return
 
 +WheelDown::WheelRight
 +WheelUp::WheelLeft
+
+CapsLock & 1::F1
+CapsLock & 2::F2
+CapsLock & 3::F3
+CapsLock & 4::F4
+CapsLock & 5::F5
+CapsLock & 6::F6
+CapsLock & 7::F7
+CapsLock & 8::F8
+CapsLock & 9::F9
+CapsLock & 0::F10
+CapsLock & -::F11
+CapsLock & =::F12

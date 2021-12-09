@@ -56,15 +56,6 @@ return
 +WheelDown::WheelRight
 +WheelUp::WheelLeft
 
-; For Keychron K3
-
-RCtrl::AppsKey
-
-$PgUp::Run, "..\hotkey-shortcuts\1.lnk"
-$PgDn::Run, "..\hotkey-shortcuts\2.lnk"
-$Home::Run, "..\hotkey-shortcuts\3.lnk"
-$End::Run, "..\hotkey-shortcuts\4.lnk"
-
 CapsLock & 1::F1
 CapsLock & 2::F2
 CapsLock & 3::F3
@@ -77,3 +68,12 @@ CapsLock & 9::F9
 CapsLock & 0::F10
 CapsLock & -::F11
 CapsLock & =::F12
+
+; For Keychron K3
+
+RCtrl::AppsKey
+
+$PgUp::Run, "..\hotkey-shortcuts\1.lnk"
+$PgDn::Run, "..\hotkey-shortcuts\2.lnk"
+$Home::Run, "..\hotkey-shortcuts\3.lnk"
+$End::Run, "..\hotkey-shortcuts\4.lnk"
