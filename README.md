@@ -39,3 +39,7 @@ Key|Remapped to
 Backspace | \
 ` | Esc
 Esc | `
+
+## MacOS
+
+On MacOS, you can use [Karabiner](https://karabiner-elements.pqrs.org/) with [this karabiner.json](https://gist.github.com/seant1/dd1f2e3b09048ac06b294d75609061ac#file-karabiner-json) configuration for a similar keymapping.
